@@ -1,0 +1,42 @@
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=FF4C69&center=true&random=true&width=435&lines=Hey%2C+There+it's++Shourav+.+.+.+)
+
+## 🧠 About Me
+- Cybersecurity Professional | IT Officer | System Administrator
+- 🎯 Goal: Job-driven learning & professional growth
+- 🌍 Based in Bangladesh 🇧🇩
+
+## 🔐 Cybersecurity Focus
+- ✅ Web Security
+- ✅ Network Security
+- ✅ OSINT
+- ✅ Malware Analysis
+- ✅ Cloud Security
+
+**Platforms:** TryHackMe, CTFs
+
+## 🧰 Tech Stack
+**Operating Systems:** Kali Linux · Ubuntu · Windows · macOS
+
+**Tools**
+- Nmap
+- Wireshark
+- Splunk
+- Burp Suite
+- Metasploit Framework
+- SpecterSQLi
+
+## 📊 GitHub Activity
+![](https://github-profile-tracker.rhshourav.workers.dev/?v=1784726688)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rhshourav&theme=transparent)
+
+## 🏆 TryHackMe
+![](https://tryhackme-badges.s3.amazonaws.com/rhshourav.og.png)
+
+## 🌐 Contact
+- Discord: 816692017496064002
+- Telegram: @rhshourav
+
+⏱️ Last updated: July 22, 2026 07:24:48 PM
+
+
+ [![Auto Regenerate README](https://github.com/rhshourav/rhshourav/actions/workflows/regenerate.yml/badge.svg)](https://github.com/rhshourav/rhshourav/actions/workflows/regenerate.yml) ![](https://komarev.com/ghpvc/?username=rhshourav&color=03fca9)
